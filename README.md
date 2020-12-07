@@ -8,6 +8,6 @@ Led Blink
 
 ## Link to Code
 
-## wiring diagram
+## Wiring diagram
 
-## Redlection
+## Reflection
